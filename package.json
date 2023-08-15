@@ -1,6 +1,6 @@
 {
   "name": "movies-database",
-  "version": "1.0.0",
+  "version": "1.0.8",
   "description": "welcome to a movies database by jitenderji1137",
   "main": "index.js",
   "scripts": {
