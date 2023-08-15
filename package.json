@@ -1,6 +1,6 @@
 {
   "name": "movies-database",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "welcome to a movies database by jitenderji1137",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,10 @@
     "url": "git+https://github.com/jitenderji1137/movies-database.git"
   },
   "keywords": [
-    "movie"
+    "movie",
+    "movies-database",
+    "free-movies",
+    "movies-data"
   ],
   "author": "jitenderji1137",
   "license": "ISC",
