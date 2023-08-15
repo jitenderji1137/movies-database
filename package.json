@@ -1,0 +1,25 @@
+{
+  "name": "movies-database",
+  "version": "1.0.0",
+  "description": "welcome to a movies database by jitenderji1137",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jitenderji1137/movies-database.git"
+  },
+  "keywords": [
+    "movie"
+  ],
+  "author": "jitenderji1137",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jitenderji1137/movies-database/issues"
+  },
+  "homepage": "https://github.com/jitenderji1137/movies-database#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.32.0"
+  }
+}
