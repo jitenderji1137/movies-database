@@ -1,5 +1,5 @@
 import { createClient } from '@supabase/supabase-js'
-const supabase = createClient('https://dcfuynjpxxdmsxwfacxq.supabase.co', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRjZnV5bmpweHhkbXN4d2ZhY3hxIiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTEzODQxNTUsImV4cCI6MjAwNjk2MDE1NX0.dhe2e-KtMcEkvEoJPn6SUNw_0vlKtI0NHxyxPfNEnJo')
+const supabase = createClient('*******************************', '**********************************************************************************************************************************************************************************************************************************')
 
 export const MoviesDatabase = async()=>{
     const Data = await supabase.from('Free-Netflix-Darabase').select('*').order('ID', { ascending: false }).range(0,19);
